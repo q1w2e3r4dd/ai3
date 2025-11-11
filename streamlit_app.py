@@ -74,6 +74,12 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://i.namu.wiki/i/EIU8aQ93hfcrDFAV8jkmzH4eqDCkU2fyL1vSolLn6YoXN8YfTmHb9DUR7ruJd7zAPnk6vgYt1xS582rvm8qQRQ.webp"],
        "videos": ["https://www.youtube.com/watch?v=XERplfomyFs"]
      },
+
+ labels[1]: {
+       "texts": ["발은 무좀에 취약합니다."],
+       "images": ["https://cdn.news.hidoc.co.kr/news/photo/201907/19665_46800_0606.jpg"],
+       "videos": ["https://www.youtube.com/shorts/6J11hReO3oE"]
+     },
 }
 
 # ======================
