@@ -80,6 +80,12 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://cdn.news.hidoc.co.kr/news/photo/201907/19665_46800_0606.jpg"],
        "videos": ["https://www.youtube.com/shorts/6J11hReO3oE"]
      },
+labels[2]: {
+       "texts": ["발은 무좀에 취약합니다."],
+       "images": ["https://cdn.news.hidoc.co.kr/news/photo/201907/19665_46800_0606.jpg"],
+       "videos": ["https://www.youtube.com/shorts/6J11hReO3oE"]
+     },
+    
 }
 
 # ======================
