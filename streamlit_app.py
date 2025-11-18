@@ -70,7 +70,7 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     
      labels[0]: {
-       "texts": ["눈은 눈꼽이 있습니다."],
+       "texts": ["눈은 시각 정보를 뇌에 전달하는 중요한 신체 기관으로, 카메라와 유사한 구조를 가지고 있습니다. 각막과 수정체가 빛을 굴절시켜 망막에 상을 맺게 하고, 홍채가 동공 크기를 조절하며, 망막에 있는 시세포가 빛을 전기 신호로 바꿔 시신경을 통해 뇌로 전달하는 과정을 통해 사물을 인식합니다. "],
        "images": ["https://i.namu.wiki/i/EIU8aQ93hfcrDFAV8jkmzH4eqDCkU2fyL1vSolLn6YoXN8YfTmHb9DUR7ruJd7zAPnk6vgYt1xS582rvm8qQRQ.webp"],
        "videos": ["https://www.youtube.com/watch?v=XERplfomyFs"]
      },
